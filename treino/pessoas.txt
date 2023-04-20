@@ -1,0 +1,2 @@
+Lucas|Masculino|111.222.333.43|22
+Joao|Feminino|211.345.675-11|76
